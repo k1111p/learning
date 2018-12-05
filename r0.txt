@@ -1,2 +1,2 @@
 init
-'master' changed
+changes in 'master' and 'testing' merged
